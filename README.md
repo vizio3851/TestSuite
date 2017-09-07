@@ -1,2 +1,2 @@
 # TestSuite
-HTML, CAA and Javascript Experiment
+HTML, CSS and Javascript Experiment
